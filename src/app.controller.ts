@@ -6,7 +6,7 @@ export class AppController  {
   root() {
     return {
       status: 'OK',
-      message: 'POS Backend is running 🚀'
+      message: 'POS Backend is running!'
     };
   }
 }
